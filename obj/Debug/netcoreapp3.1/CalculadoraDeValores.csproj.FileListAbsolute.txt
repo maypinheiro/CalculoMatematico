@@ -1,0 +1,14 @@
+C:\Users\017586631\source\repos\CalculadoraDeValores\bin\Debug\netcoreapp3.1\CalculadoraDeValores.exe
+C:\Users\017586631\source\repos\CalculadoraDeValores\bin\Debug\netcoreapp3.1\CalculadoraDeValores.deps.json
+C:\Users\017586631\source\repos\CalculadoraDeValores\bin\Debug\netcoreapp3.1\CalculadoraDeValores.runtimeconfig.json
+C:\Users\017586631\source\repos\CalculadoraDeValores\bin\Debug\netcoreapp3.1\CalculadoraDeValores.runtimeconfig.dev.json
+C:\Users\017586631\source\repos\CalculadoraDeValores\bin\Debug\netcoreapp3.1\CalculadoraDeValores.dll
+C:\Users\017586631\source\repos\CalculadoraDeValores\bin\Debug\netcoreapp3.1\CalculadoraDeValores.pdb
+C:\Users\017586631\source\repos\CalculadoraDeValores\obj\Debug\netcoreapp3.1\CalculadoraDeValores.csproj.AssemblyReference.cache
+C:\Users\017586631\source\repos\CalculadoraDeValores\obj\Debug\netcoreapp3.1\CalculadoraDeValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017586631\source\repos\CalculadoraDeValores\obj\Debug\netcoreapp3.1\CalculadoraDeValores.AssemblyInfoInputs.cache
+C:\Users\017586631\source\repos\CalculadoraDeValores\obj\Debug\netcoreapp3.1\CalculadoraDeValores.AssemblyInfo.cs
+C:\Users\017586631\source\repos\CalculadoraDeValores\obj\Debug\netcoreapp3.1\CalculadoraDeValores.csproj.CoreCompileInputs.cache
+C:\Users\017586631\source\repos\CalculadoraDeValores\obj\Debug\netcoreapp3.1\CalculadoraDeValores.dll
+C:\Users\017586631\source\repos\CalculadoraDeValores\obj\Debug\netcoreapp3.1\CalculadoraDeValores.pdb
+C:\Users\017586631\source\repos\CalculadoraDeValores\obj\Debug\netcoreapp3.1\CalculadoraDeValores.genruntimeconfig.cache
